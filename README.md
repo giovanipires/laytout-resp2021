@@ -1,7 +1,11 @@
-<<<<<<< HEAD
-# projeto-apeperia
-Arquivos do projeto para a Apeperia
-=======
-# laytout-resp2021
-Repositório criado para o curso Alura de layout responsivo.
->>>>>>> 572ff4bd7af4e59b2482e1435c7238a3274fbb09
+<h1>Projeto Apeperia de Layout responsivo</h1>
+
+<h2> O que aprendi:</h2>
+
+<h3>01.Ferramentas, unidades e imagens</h3>
+<ul>
+	<li>Analisar e desmembrar o layout recebido;</li>
+	<li>Usar o EMMET, adpatado ao Sublime, para criar blocos de código HTML;</li>
+	<li>Usar as unidades relativas REM e EM;</li>
+	<li>Tipos de imagens e SVGs;</li>
+</ul>
