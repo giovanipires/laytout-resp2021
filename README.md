@@ -22,6 +22,12 @@
 			<li>Utilizar as unidades de viewport;</li>
 			<li>Identificar a diferença entre unidades absolutas e relativas;</li>
 			<li>Analisar as limitações físicas de dispositivos;</li>
+		</ul>
+		<h3>04.Trabalhando a semântica HTML</h3>
+		<ul>
+			<li>Como lidar com as imagens do layout que recebemos;</li>
+			<li>Tags e atributos que têm mais função de semântica do que estilo;</li>
+			<li>A importância de escrever um código semântico;</li>
 		</ul>	
 	</main>
 </body>
