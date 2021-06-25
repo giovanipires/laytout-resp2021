@@ -17,6 +17,12 @@
 			<li>Como funciona o initial-scale dentro do conteúdo do Viewport;</li>
 			<li>Como declarar e chamar variáveis CSS;</li>
 		</ul>	
+		<h3>03.Particularidades da tela</h3>
+		<ul>
+			<li>Utilizar as unidades de viewport;</li>
+			<li>Identificar a diferença entre unidades absolutas e relativas;</li>
+			<li>Analisar as limitações físicas de dispositivos;</li>
+		</ul>	
 	</main>
 </body>
 
