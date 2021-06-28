@@ -23,6 +23,10 @@
 
 .institucional__descricao {
     margin-bottom: 2rem;
+    font-weight: 400;
+    font-size: 1.2rem;
+    font-family: var(--montserrat);
+    text-align: justify;
 }
 
 .institucional__endereco {
@@ -57,28 +61,41 @@
     .institucional__contato-email {
         display: inline-block;
     }
+
      .institucional__video {
         width: 100%;
      }
+
 }
 
 @media screen and (min-width: 1024px) {
+
     .institucional__conteudo {
         width: 100%;
-
         display: flex;
         justify-content: space-between;
-
         text-align: left;
     }
 
+    .institucional__endereco {
+        font-size: 1.2rem;
+        line-height: normal;
+
+    margin-bottom: 2rem;
+}
+
     .institucional__video {
         align-self: flex-end;
-
         width: 375px;
     }
 
     .institucional__contato-email {
-        display: block;
+        display: inline-block;
     }
+
+
 }
+
+
+
+    
